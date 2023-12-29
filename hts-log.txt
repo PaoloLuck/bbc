@@ -1,0 +1,8 @@
+21:41:15	Warning: 	engine: warning: temporary file C:/My Web Sites/bbc/www.bbc.com/news/in_pictures2679.html.tmp already exists
+21:41:15	Warning: 	engine: warning: serialize error for https://www.bbc.com/news/in_pictures?page=1 to C:/My Web Sites/bbc/www.bbc.com/news/in_pictures2679.html.tmp: write error: No space left on device
+21:41:15	Warning: 	engine: warning: temporary file C:/My Web Sites/bbc/www.bbc.com/news/in_pictures2679.html.tmp already exists
+21:41:15	Warning: 	engine: warning: serialize error for https://www.bbc.com/news/in_pictures?page=1 to C:/My Web Sites/bbc/www.bbc.com/news/in_pictures2679.html.tmp: write error: No space left on device
+21:41:18	Error: 	* * Fatal write error, giving up
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 minutes 21 seconds : 2560 links scanned, 2392 files written (774578613 bytes overall) [216529806 bytes received at 68936 bytes/sec], 717187344 bytes transferred using HTTP compression in 1455 files, ratio 21%, 8.6 requests per connection
+(3 errors, 4310 warnings, 0 messages)
